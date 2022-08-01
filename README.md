@@ -1,2 +1,2 @@
 # hello-world-2
-this is the first repository
+this is the main-edit edition
